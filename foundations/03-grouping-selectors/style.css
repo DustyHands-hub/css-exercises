@@ -1,0 +1,14 @@
+.leftButt {
+    color: white;
+    background-color: black;
+}
+
+.rightButt {
+    background-color: yellow;
+}
+
+.leftButt,
+.rightButt {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}

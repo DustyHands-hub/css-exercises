@@ -1,0 +1,19 @@
+.oddP {
+    background-color: palevioletred;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+#NUMTWO {
+    color: blue;
+    font-size: 36px;
+}
+
+#NUMFOUR {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.thirdP {
+    font-size: 24px;
+}
